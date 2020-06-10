@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="173" height="47.064" viewBox="0 0 173 47.064">
+  <g id="Group_1" data-name="Group 1" transform="translate(-326 -478.936)">
+    <g id="ic_border_color_24px" transform="translate(408.423 478.936)">
+      <path id="Path_81" data-name="Path 81" d="M26.031,11.217,20.023,5.209,4,21.231V27.24h6.008Zm4.743-4.743a1.6,1.6,0,0,0,0-2.259L27.025.466a1.6,1.6,0,0,0-2.259,0l-3.14,3.14,6.008,6.008Z" transform="translate(2.409 0.002)"/>
+      <path id="Path_82" data-name="Path 82" d="M0,20H38.454v6.409H0Z" transform="translate(0 12.049)" fill="#4453f2"/>
+    </g>
+    <text id="JEPS" transform="translate(327 518)" font-size="31" font-family="Montserrat-Regular, Montserrat"><tspan x="0" y="0">JEP</tspan><tspan y="0" font-family="Montserrat-Bold, Montserrat" font-weight="700">S</tspan></text>
+    <text id="GN" transform="translate(451 517)" font-size="30" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">GN</tspan></text>
+  </g>
+</svg>
